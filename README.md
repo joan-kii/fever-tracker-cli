@@ -11,12 +11,16 @@ In the CLI version of the program, we initially have to choose between 5 options
 
 When we want to open an existing record, the program asks us to choose between the files that are saved in the csv file folder. Then, in the CLI version of the program, the data is displayed in a formatted table style directly in the terminal shell. 
 
-This program works with the csv, pdf and tabulate modules of Python. The tabulate module helps us to display the data to the user in the formatted table style in an elegant way.
+This program works with the csv, pdf and tabulate modules of Python. The csv files act as a database and keep track of all the records. The pdf files help the user to get a better way to store and share the results. The tabulate module helps us to display the data to the user in the formatted table style in an elegant way.
 
-Seguir aquí (GUI version)
+The GUI version of the program does exactly the same thing, but in a more user-friendly way. 
+
+Among the libraries and frameworks available in the Python universe, I chose PyQt because it seems like a very popular tool for making GUIs in various industries. Maybe it's a good technology to learn.
+
+PyQt has a fairly intuitive object-oriented API that, once you understand how it works, lets you get the job done without too much headache. The fact that you can style your app using CSS syntax is great. However, I didn't waste too much effort on the look and feel of the GUI. All in all, I have really enjoyed the experience of working with PyQt
 
 It has been a good challenge in which I have learned a lot and that will allow me to continue learning.
 
 There are some bugs creating the pdf file or validating input data, but since the goal is to continue learning, I can't spend much more time on it.
 
-400 palabras
+#### Fever Traker GUI repo:  [Fever Tracker GUI](https://github.com/joan-kii/fever-tracker-gui)
