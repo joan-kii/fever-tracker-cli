@@ -1,5 +1,5 @@
 # Fever Tracker
-#### Video Demo:  [Fever Tracker](https://youtu.be/f4VQJMfVPt0)
+#### Video Demo:  [Fever Tracker](https://youtu.be/UdgvT-XeDCc)
 #### Description:
 
 For this final project I have decided to create a program for keep track of a patient's fever. It is called Fever Tracker, and it has two versions, a CLI version and a GUI version.
@@ -23,4 +23,4 @@ It has been a good challenge in which I have learned a lot and that will allow m
 
 There are some bugs creating the pdf file or validating input data, but since the goal is to continue learning, I can't spend much more time on it.
 
-#### Fever Traker GUI repo:  [Fever Tracker GUI](https://github.com/joan-kii/fever-tracker-gui)
+#### Fever Traker GUI repo:  [Fever Tracker CLI](https://github.com/joan-kii/fever-tracker-gui)
